@@ -1,3 +1,5 @@
+![Salad Technologies](https://www.salad.io/wp-content/uploads/2019/05/Salad-Applications-Header.png)
+
 # Salad Applications
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/fce3950b-4efe-43db-9242-37d3204b7ce1/deploy-status)](https://app.netlify.com/sites/salad-web-app/deploys)
